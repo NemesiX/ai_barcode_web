@@ -7,7 +7,7 @@ packages:
       path: "../ai_barcode_platform_interface"
       relative: true
     source: path
-    version: "4.0.0"
+    version: "4.0.1"
   async:
     dependency: transitive
     description:
@@ -60,10 +60,10 @@ packages:
     dependency: transitive
     description:
       name: csslib
-      sha256: b36c7f7e24c0bdf1bf9a3da461c837d1de64b9f8beb190c9011d8c72a3dfd745
+      sha256: "831883fb353c8bdc1d71979e5b342c7d88acfbc643113c14ae51e2442ea0f20f"
       url: "https://pub.dev"
     source: hosted
-    version: "0.17.2"
+    version: "0.17.3"
   fake_async:
     dependency: transitive
     description:
@@ -216,18 +216,18 @@ packages:
     dependency: "direct main"
     description:
       name: universal_html
-      sha256: f2e0ff0c4af8e4bbda4d273ca4a11be4055414f478fad5c161609b74790ff696
+      sha256: a5cc5a84188e5d3e58f3ed77fe3dd4575dc1f68aa7c89e51b5b4105b9aab3b9d
       url: "https://pub.dev"
     source: hosted
-    version: "2.2.2"
+    version: "2.2.3"
   universal_io:
     dependency: transitive
     description:
       name: universal_io
-      sha256: "06866290206d196064fd61df4c7aea1ffe9a4e7c4ccaa8fcded42dd41948005d"
+      sha256: "1722b2dcc462b4b2f3ee7d188dad008b6eb4c40bbd03a3de451d82c78bba9aad"
       url: "https://pub.dev"
     source: hosted
-    version: "2.2.0"
+    version: "2.2.2"
   vector_math:
     dependency: transitive
     description:
